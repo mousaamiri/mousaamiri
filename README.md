@@ -33,14 +33,14 @@ Nine years of hands-on engineering across Java, WordPress, and the broader .NET 
 ## Projects
 
 ### [Vitastic](https://github.com/mousaamiri/vitastic) — Online Learning Platform
-An e-learning backend built around tactical DDD — bounded contexts, aggregates, and eventual consistency via the Outbox Pattern.
+A backend for an online learning platform built with ASP.NET Core using tactical Domain-Driven Design (DDD). The project applies bounded contexts, aggregates, domain events, and the Outbox Pattern to achieve reliable eventual consistency while emphasizing clean architecture, scalability, and maintainability.
 
 `ASP.NET Core` `PostgreSQL` `Clean Architecture` `DDD` `CQRS` `Outbox Pattern` `Docker`
 
 ---
 
-### [Wazhechin](https://github.com/mousaamiri/wazhechin) — Persian Dictionary Desktop App
-A WPF desktop application with a strict layered architecture and full test coverage on the domain layer.
+### [Wazhechin](https://github.com/mousaamiri/wazhechin) — Library Management System
+A desktop application built with WPF and C# for managing library operations, including book inventory, member records, borrowing, and returns. The project is designed using a layered architecture with a strong focus on clean code, maintainability, and comprehensive unit testing of the domain layer.
 
 `WPF` `MVVM` `SQL Server` `MahApps.Metro` `TDD` `Repository Pattern`
 
