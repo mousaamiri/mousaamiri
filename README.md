@@ -3,7 +3,9 @@
 **Backend Developer — .NET / C#**  
 Clean Architecture · DDD · CQRS · Domain Modeling
 
-Nine years of hands-on engineering across Java, WordPress, and the broader .NET ecosystem — now focused on building maintainable, well-structured backend systems.
+Self-taught .NET backend developer with two years of focused, 
+consistent practice — building real projects with production-grade patterns.
+
 
 ---
 
