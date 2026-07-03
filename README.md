@@ -48,6 +48,13 @@ A desktop application built with WPF and C# for managing library operations, inc
 
 ---
 
+### [Portfolio](https://github.com/mousaamiri/Portfolio) — Personal Website
+Personal portfolio website showcasing projects and technical background.
+
+`ASP.NET Core` `C#`
+
+---
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mousaamiri&show_icons=true&theme=default&hide_border=true)
