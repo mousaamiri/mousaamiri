@@ -88,8 +88,8 @@ async pitfalls (`Task` vs `ValueTask`) and formal BenchmarkDotNet runs.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mousaamiri&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mousaamiri&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mousaamiri&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mousaamiri&layout=compact&theme=default&hide_border=true&cache_seconds=86400)
 
 ---
 
