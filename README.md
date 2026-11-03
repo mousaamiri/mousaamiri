@@ -1,4 +1,4 @@
-# Mousa Amiri Motlagh
+# Mousa Amiri
 
 **Backend Developer — .NET / C#**
 Clean Architecture · DDD · CQRS · Domain Modeling
